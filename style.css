@@ -1,0 +1,252 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow: auto;
+}
+html,
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+a {
+  text-decoration: none;
+  color: chocolate;
+}
+section#first {
+  background: url(img/panoramic.jpg) no-repeat center center/cover;
+  background-attachment: fixed;
+  height: 100vh;
+  position: relative;
+}
+section#first::before{
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+section#first .welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+section#first .welcome h1 {
+  font-size: 3rem;
+  color: #f4f4f4;;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+section#first * {
+  z-index: 5;
+}
+  /**** First-Article ****/
+  #first-article {
+  height: 500px;
+  width: 100%;
+  padding: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
+
+#first-article p {
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 1rem;
+}
+/**** Second Section ****/
+section#second {
+  background: url(img/bridge.jpg) no-repeat center center/cover;
+  background-attachment: fixed;
+  height: 650px;
+  /* width: 100%; */
+  /* position: relative; */
+}
+/**** Second-Article ****/
+article#second-article {
+  height: 500px;
+  width: 100%;
+  padding: 3rem;
+  background: #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+article#second-article p {
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 1rem;
+  color: #f4f4f4;
+}
+section#second .welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+section#second .welcome h2 {
+  font-size: 2rem;
+  color: #f4f4f4;;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+/***** Third Section *****/
+section#third {
+  background: url(img/bean.jpg) no-repeat center center/cover;
+  background-attachment: fixed;
+  height: 650px;
+}
+/**** Third-Article ****/
+article#third-article {
+  height: 500px;
+  width: 100%;
+  padding: 3rem;
+  background: #f4f4f4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+article#third-article p, h2 {
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 1rem;
+  color: #333;
+}
+section#third .welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+section#third .welcome h2 {
+  font-size: 2rem;
+  color: #f4f4f4;;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+/***** Fourth Section *****/
+section#fourth {
+  background: url(img/glass.jpg) no-repeat center center/cover;
+  background-attachment: fixed;
+  height: 650px;
+}
+section#fourth .welcome {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+section#fourth .welcome h2 {
+  font-size: 2rem;
+  color: #f4f4f4;;
+  background: rgba(0, 0, 0, 0.3);
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+/**** Fourth-Article ****/
+article#fourth-article {
+  height: 500px;
+  width: 100%;
+  padding: 3rem;
+  background: #333;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+article#fourth-article p {
+  font-size: 1.5rem;
+  text-align: center;
+  padding: 1rem;
+  color: #f4f4f4;
+}
+/* Fifth Section */
+section#fifth {
+  background: url(img/night.jpg) no-repeat center center/cover;
+  background-attachment: fixed;
+  height: 100vh;
+}
+
+@media screen and (max-width:900px) and (min-width:600px ) {
+  section#first .welcome h1,
+  section#second .welcome h2,
+  section#third .welcome h2,
+  section#fourth .welcome h2 {
+    font-size: 2rem;
+  }
+  article#first-article,
+  article#second-article,
+  article#third-article,
+  article#fourth-article  {
+    padding: 2rem;
+  }
+  article#second-article,
+  article#third-article {
+    flex-direction: column;
+  }
+  article#first-article p,
+  article#second-article p,
+  article#third-article p,
+  article#fourth-article p {
+    font-size: 1.2rem;
+    line-height: 1.2;
+  }
+}
+@media only screen and (max-width:600px ){
+ section#first .welcome h1,
+ section#second .welcome h2,
+ section#third .welcome h2,
+ section#fourth .welcome h2
+  {
+   font-size: 1.5rem;
+   text-align: center;
+  }
+  article#first-article,
+  article#second-article,
+  article#third-article,
+  article#fourth-article {
+    padding: 1.5rem;
+  }
+  article#second-article,
+  article#third-article {
+    flex-direction: column;
+  }
+  article#first-article p,
+  article#second-article p,
+  article#third-article p,
+  article#fourth-article p {
+    font-size: 1.1rem;
+  }
+}
+    
+
+    
+      
+  
+    
+
+  
+ 
+  
+
+  
+
+
+
+
+  
+
+  
+
+

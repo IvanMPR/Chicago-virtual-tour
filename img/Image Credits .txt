@@ -1,0 +1,52 @@
+<span>Photo by <a href="https://unsplash.com/@thatsmrbio?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Matthew Hamilton</a> on <a href="https://unsplash.com/s/photos/chicago?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> bridge
+
+<span>Photo by <a href="https://unsplash.com/@lanceanderson?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Lance Anderson</a> on <a href="https://unsplash.com/s/photos/chicago?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> Bean
+
+<span>Photo by <a href="https://unsplash.com/@chrisdickens?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Chris Dickens</a> on <a href="https://unsplash.com/s/photos/chicago?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> night
+
+<span>Photo by <a href="https://unsplash.com/@timtrad?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Tim Trad</a> on <a href="https://unsplash.com/s/photos/chicago?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> glass
+
+<span>Photo by <a href="https://unsplash.com/@peterlaster?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Pedro Lastra</a> on <a href="https://unsplash.com/s/photos/chicago?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> panoramic
+
+
+<span>Photo by <a href="https://unsplash.com/@antogabb?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Antonio Gabola</a> on <a href="https://unsplash.com/s/photos/chicago-milennium?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> bean thumbnail
+
+<span>Photo by <a href="https://unsplash.com/@darkersolstice?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Solstice Hannan</a> on <a href="https://unsplash.com/s/photos/chicago-field-museum?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> field thumbnail
+
+<span>Photo by <a href="https://unsplash.com/@arosephotos?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Adrianna Van Groningen</a> on <a href="https://unsplash.com/s/photos/chicago-riverwalk?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> girl riverwalk
+
+<span>Photo by <a href="https://unsplash.com/@adityachinchure?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Aditya Chinchure</a> on <a href="https://unsplash.com/s/photos/festival-party?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span> concert
+
+
+
+
+
+
+<div class="block-wrapper">
+      <div class="block">
+        <h3>Outdor</h3>
+        <p><a href="https://www.timeout.com/chicago/attractions/millennium-park-chicago-il" target="_blank">Millennium Park</a></p>
+        <p><a href="https://www.timeout.com/chicago/things-to-do/lincoln-park-zoo-chicago-il" target="_blank">Lincoln Park Zoo</a></p>
+        <p><a href="https://www.timeout.com/chicago/things-to-do/riverwalk-chicago-il" target="_blank">Riverwalk</a></p>
+        <p><a href="https://www.timeout.com/chicago/things-to-do/navy-pier-chicago-il" target="_blank">Navy Pier</a></p>
+        <p><a href="https://www.timeout.com/chicago/walks-tours/chicagos-best-boat-tours" target="_blank">Chicago Boat Tours</a></p>
+      </div>
+        
+      <div class="block">
+        <h3>Museums</h3>
+        <p><a href="https://www.timeout.com/chicago/museums/art-institute-of-chicago-chicago-il" target="_blank">Art Institute of Chicago</a></p>
+        <p><a href="https://www.timeout.com/chicago/museums/the-field-museum-chicago-il" target="_blank">The Field Museum </a></p>
+        <p><a href="https://www.timeout.com/chicago/attractions/shedd-aquarium-chicago-il" target="_blank">Shedd Aquarium</a></p>
+        <p><a href="https://www.timeout.com/chicago/museums/adler-planetarium-chicago-il" target="_blank">Adler Planetarium</a></p>
+        <p><a href="https://www.timeout.com/chicago/museums/museum-of-science-and-industry-chicago-il" target="_blank">Museum of Science and Industry</a></p>
+      </div> 
+
+      <div class="block">
+        <h3>Entertainment</h3>
+        <p><a href="https://www.timeout.com/chicago/things-to-do/willis-tower-skydeck-chicago-il" target="_blank">Willis Tower Skydeck</a></p>
+        <p><a href="https://www.timeout.com/chicago/things-to-do/360-chicago" target="_blank">360 CHICAGO </a></p>
+        <p><a href="https://www.timeout.com/chicago/music/chicago-theatre-chicago-il" target="_blank">Chicago Theatre</a></p>
+        <p><a href="https://www.mlb.com/cubs/ballpark" target="_blank">Wrigley Field</a></p>
+        <p><a href="https://urbanmatter.com/chicago/the-10-best-bars-in-river-north/" target="_blank">Bars in River North</a></p>
+      </div>  
+    </div>  
